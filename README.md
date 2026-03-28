@@ -1,1 +1,0 @@
-# dtm-zone-bot
